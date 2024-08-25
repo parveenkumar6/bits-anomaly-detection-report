@@ -1,0 +1,11 @@
+CoverageID,PolicyID,CoverageType,CoverageAmount,Deductible,Description
+1,1,Liability Coverage,50000,500,Covers third-party bodily injury and property damage.
+2,1,Collision Coverage,20000,1000,Covers damage to the policyholder's vehicle.
+3,2,Dwelling Coverage,150000,1000,Covers the physical structure of the home.
+4,2,Personal Property Coverage,50000,500,Covers personal belongings inside the home.
+5,3,Hospitalization Coverage,100000,0,Covers the cost of hospital stays.
+6,3,Outpatient Services Coverage,20000,0,Covers the cost of outpatient medical services.
+7,4,Term Life Coverage,500000,0,Pays out a lump sum upon the death of the insured.
+8,5,Liability Coverage,25000,500,Covers third-party bodily injury and property damage.
+9,5,Comprehensive Coverage,25000,500,Covers damage to the policyholder's vehicle from non-collision events.
+10,6,Dwelling Coverage,160000,1500,Covers the physical structure of the home.

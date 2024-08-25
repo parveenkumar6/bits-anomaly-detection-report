@@ -1,0 +1,9 @@
+CustomerID,FirstName,LastName,DateOfBirth,Gender,Address,City,State,PostalCode,Phone,Email
+1001,John,Doe,6/15/1985,M,123 Elm St,Springfield,IL,62704,(555) 123-4567,john.doe@example.com
+1002,Jane,Smith,3/22/1978,F,456 Oak St,Springfield,IL,62705,(555) 234-5678,jane.smith@example.com
+1003,Alice,Johnson,11/2/1990,F,789 Pine St,Springfield,IL,62706,(555) 345-6789,alice.johnson@example.com
+1004,Robert,Brown,7/19/1982,M,321 Birch St,Springfield,IL,62707,(555) 456-7890,robert.brown@example.com
+1005,Linda,Davis,1/30/1975,F,654 Maple St,Springfield,IL,62708,(555) 567-8901,linda.davis@example.com
+1006,Michael,Wilson,5/15/1968,M,987 Cedar St,Springfield,IL,62709,(555) 678-9012,michael.wilson@example.com
+1007,David,Lee,9/30/1992,M,123 Fir St,Springfield,IL,62710,(555) 789-0123,david.lee@example.com
+1008,Susan,Taylor,4/25/1987,F,456 Walnut St,Springfield,IL,62711,(555) 890-1234,susan.taylor@example.com

@@ -1,0 +1,11 @@
+InsuredID,PolicyID,CustomerID,FirstName,LastName,DateOfBirth,RelationshipToPolicyholder,Address,Phone,Email
+1,1,1001,John,Doe,6/15/1985,Policyholder,"123 Elm St, Springfield",(555) 123-4567,john.doe@example.com
+2,2,1002,Jane,Smith,3/22/1978,Policyholder,"456 Oak St, Springfield",(555) 234-5678,jane.smith@example.com
+3,3,1003,Alice,Johnson,11/2/1990,Policyholder,"789 Pine St, Springfield",(555) 345-6789,alice.johnson@example.com
+4,4,1001,Emily,Doe,12/10/2010,Dependent,"123 Elm St, Springfield",(555) 123-4567,john.doe@example.com
+5,5,1004,Robert,Brown,7/19/1982,Policyholder,"321 Birch St, Springfield",(555) 456-7890,robert.brown@example.com
+6,6,1005,Linda,Davis,1/30/1975,Policyholder,"654 Maple St, Springfield",(555) 567-8901,linda.davis@example.com
+7,7,1006,Michael,Wilson,5/15/1968,Policyholder,"987 Cedar St, Springfield",(555) 678-9012,michael.wilson@example.com
+8,8,1002,Jane,Smith,3/22/1978,Policyholder,"456 Oak St, Springfield",(555) 234-5678,jane.smith@example.com
+9,9,1007,David,Lee,9/30/1992,Policyholder,"123 Fir St, Springfield",(555) 789-0123,david.lee@example.com
+10,10,1008,Susan,Taylor,4/25/1987,Policyholder,,,
